@@ -1,4 +1,6 @@
-### Hi there 👋
+# Code Description
+#### US Securities analysis using sentimental analysis on Fed Speech
+#### Techniques & Tools: Sentimental Analysis(NLP), Voice to Text(OpenAI's Whisper API), Text Summarization(OpenAI's API), Embeddings(OpenAI's ADA-002), Securities Data Extraction(yfinance)
 
 <!--
 **JadenJ09/JadenJ09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
